@@ -1,0 +1,1 @@
+most infosec people are like “if you don’t have a radiation source in your air-gapped office to generate truly random passwords of at least 1000 characters and keep your hardware 2FA token in a separate country which requires forms filled out in triplicate to access then you don’t deserve to share my oxygen
